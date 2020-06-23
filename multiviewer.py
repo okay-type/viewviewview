@@ -121,7 +121,9 @@ class MultiviewToolbar():
 
     def addMultiviewToolbarButton(self, notification=None):
 
-        imagePath = '/Users/k/Ok/robofont/multiview/toolbarMultiview.pdf'
+        dirpath = os.path.dirname(os.path.realpath(__file__))
+
+        imagePath = dirpath + '/toolbarMultiview.pdf'
         newItem = dict(
             itemIdentifier='multiviewButton',
             label='Multiview',
