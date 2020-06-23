@@ -1,0 +1,703 @@
+###	Basic Uppercase
+A	ARROW HANDLE PHRAATE COLUMBIA
+B	BREAKFAST REBOUNDING SVBBREVIS SCARUB
+C	CROCODILE TRENCHES OCCULT PARSEC
+D	DOMINOS HANDFUL MIDDLE EXHUMED
+E	EMPTY PREACHER CREEKS ATHLETE
+F	FUTURE WATERFOUL OFFICIAL AIRPROOF
+G	GLASSES DIGRESS FROGGER SONG
+H	HEROICS RICHLY FISHHOOK BRASH
+I	INKWELL CLICKS SKIINGS TANDOORI
+J	JINGLED HIJINX HAJJIS SWARAJ
+K	KALAMATA TWINKLE CHUKKAS CREEK
+L	LAMBDA OLIVE CABOODLE UTERO
+M	MUSTARD CLIMATE GLIMMER THING
+N	NETTLE HUNGER SUNNIEST MEGATON
+O	ORANGE CLOWNS NOODLES TOMATO
+P	PICKLED RIPCORD HAPPENING HICCUP
+Q	QUICKLY REQUEST TRANQ
+R	RADISHES NORTHWEST CURRIED TERRIOR
+S	SALAMANDER THRESHOLD BLOSSOM PRETZELS
+T	TERRAPIN GOTHIC NETTLES RESULT
+U	UNDERSERVE BRUNCH VACUUMS CARIBOU
+V	VALIUM GROVES REVVING MAZELTOV
+W	WALRUS BROWNING GLOWWORM TOMORROW
+X	XENOPHOBE EXHAUST LUNCHBOX
+Y	YOUNGBLOOD PRYING SAYYIDS YESTERDAY
+Z	ZUCCINI RAZORCLAM PIAZZA RAZZMATAZZ
+
+###	Basic Lowercase
+a	arrowroot hamburgers phraates columbia
+b	breakfast rebounding svbbrevis landcrab
+c	crocodile trenches occult parsec
+d	dominos handful middle exhumed
+e	empty preacher creeks athlete
+f	future waterfoul official airproof
+g	glasses digress frogger song
+h	heroics richly fishhook brash
+i	inkwell clicks skiings tandoori
+j	jingled hijinx hajjis swaraj
+k	kalamata twinkle chukkas creek
+l	lambda olive caboodle utero
+m	mustard climate glimmer thing
+n	nettle hunger sunniest megaton
+o	orange clowns noodles tomato
+p	pickled ripcord happening hiccup
+q	quickly request tranq
+r	radishes northwest curried terrior
+s	salamander threshold blossoms pretzels
+t	terrapin gothic nettles result
+u	underserve brunch vacuums caribou
+v	valium groves revving mazeltov
+w	walrus browning glowworm tomorrow
+x	xenophobe exhaust lunchbox
+y	youngblood prying sayyids yesterday
+z	zuccini razorclam piazza razzmatazz
+
+/zero.lp	/zero.lp  espace committee /two.lp /zero.lp /one.lp /zero.lp  future /five.lp /zero.lp /zero.lp 
+/one.lp	/one.lp  ratings #/one.lp  chicago forms /nine.lp /one.lp /one.lp  glass
+/one.lt /one.lt  ratings #/one.lt  chicago forms /nine.lp /one.lt /one.lt  glass
+/one.ot /one.ot  ratings #/one.ot  chicago forms /nine /one.ot /one.ot  glass
+/two.lp	/two.lp  everyone independent /two.lp ./two.lp ./one.lp /two.lp /zero.lp ./zero.lp /two.lp /two.lp  ip
+/three.lp	/three.lp  airport /three.lp /one.lp  foreign artist /three.lp ,/zero.lp /zero.lp /zero.lp  /three.lp /three.lp  /one.lp /three.lp 
+/four.lp	/four.lp  trackback /zero.lp ./four.lp /four.lp  prints Nº /one.lp /four.lp  spend
+/five.lp	/five.lp  acquisition port /five.lp /five.lp x implemented /six.lp /five.lp /zero.lp 
+/six.lp	/six.lp  precision /two.lp ,/six.lp /zero.lp /five.lp  damages /six.lp /eight.lp  reserves
+/seven.lp	/seven.lp  conditioning /seven.lp /zero.lp /zero.lp  teenage /seven.lp /seven.lp a soap
+/eight.lp	/eight.lp  velocity /eight.lp /eight.lp /two.lp ./five.lp  lambda relay $/one.lp /eight.lp 
+/nine.lp	/nine.lp  complicated /nine.lp /eight.lp ./six.lp ° chem butler /one.lp ,/nine.lp /nine.lp /nine.lp 
+
+0	0 space committee 2010 future 500
+1	1 ratings #1 chicago forms 911 glass
+2	2 everyone independent 2.2.120.022 ip
+3	3 airport 31 foreign artist 3,000 33 1/3
+4	4 trackback 0.44 prints Nº 14 spend
+5	5 acquisition port 55x implemented 650
+6	6 precision 2,605 damages 68 reserves
+7	7 conditioning 700 teenage 77a soap
+8	8 velocity 882.5 lambda relay $18
+9	9 complicated 98.6° chem butler 1,999
+
+###	Dashes
+•	• Bullet list indicator
+-	Hyphen-explicit - Two-Words or Line Break-
+–	Ranges 5:00–6:00 ebook English – Style
+—	Long phrase — breaks in america—Error
+_	Vampires _Underscore the _Book_Title_
+
+###	Enclosers
+(	provision (Secret) Part (Parenthesis)
+)	provision (Secret) Part (Parenthesis)
+[	outdoors [Listing] Thing [Bracket]
+]	outdoors [Listing] Thing [Bracket]
+{	Sometimes {luxury} Text {Braces}
+}	Sometimes {luxury} Text {Braces}
+'	Height 6' 2" Old-School 'Typewriter'
+"	pain "particularly" factors 8" coffee
+‘	nursing ‘defense machines’ italian’s
+’	nursing ‘defense machines’ italian’s
+“	Printing “Matrix” and “Sometimes” Ok
+”	Printing “Matrix” and “Sometimes” Ok
+‚	Euro ‚Singled’ Additionally ‚machines’
+„	galleries „Doubled UP” references
+‹	Feather ‹Ducking› Waddling ›Quacker‹
+›	Feather ‹Ducking› Waddling ›Quacker‹
+«	sounding »Shovel« grant «Hammer»
+»	sounding »Shovel« grant «Hammer»
+
+###	Punctuation
+.	australian. employee 2.0 chief gives up.
+,	squared, chris attention calls 45,785
+:	updates: desktop classes: 189:15 lorde:
+;	input strategy; publications 60;00 end;
+!	battery! youth pressured! literature!!!
+?	electric saw? instruments & quotes?!
+¿	HOLA. ¿Cómo está? Y eso ¿por qué?
+¡	He Said, “¡Me lo estoy pasando pipa!”
+…	Ellipses … are good for trailing off…
+
+###	Semantic Symbols
+/	Testing A//B http:////www.website.code//
+&	named laser & plastic theatre M&H type
+@	Email@Web.com tweeting @Computers
+#	Hashtag #Topics Twitter #blessed #420
+№	Unicode № 8470 but №1 in our hearts
+%	highway 1.1% manager (hardcover 87%)
+‰	Blood 0.6‰ level 0.2‰ ‘salinity 35‰’
+°	TEMPERATURES OF 98.6° ARE COMFORTABLE
+
+###	Legal Symbols
+©	Reservation ©2016 printing © LAWYERS
+℗	℗2019 sound recording ℗ copyright owner
+®	Postcard elephant Registered® nickel
+™	Civilization™ requesting courage™
+℠	Service mark℠ for lawers℠ and CPAs℠
+
+###	Reference Marks
+¶	Begin a new ¶Paragraph read ¶15:8 thx
+§	Lookup §Section §23:45 Reading §25.35
+|	Break|strikes publicity |Pipe Bar|None
+¦	laughing¦TEXT Broken¦Line grows ¦cliff
+*	Pediatric Footnotes* and Exceptions**
+†	Second footnote† or †1999 death year
+‡	Annotation‡ after the two above‡
+¹	enquiries washing audi therapeutic¹
+²	transcript myspace² theorem inflation
+³	wallace nevertheless reflects Itself³
+⁴	microwave cheapest⁴ accident PRONE
+⁵	enquiries washing audi therapeutic⁵
+⁶	transcript myspace⁶ theorem inflation
+⁷	wallace nevertheless reflects Itself⁷
+⁸	microwave cheapest⁸ accident PRONE
+⁹	enquiries washing audi therapeutic⁹
+⁰	enquiries washing audi therapeutic¹⁰
+ᵃ	upon stumblingᵃ upon this article madᵃ you.ᵃ
+ᵇ	alreadyᵇ have reasonedᵇ why you reject.ᵇ
+ᶜ	misunderstoodᶜ concepts throughoutᶜ history.ᶜ
+ᵈ	hope that theᵈ quotes below willᵈ help.ᵈ
+ᵉ	ask that youᵉ please have an openedᵉ mind.ᵉ
+ᶠ	the tyrant,ᶠ who in order to holdᶠ his powerᶠ
+ᵍ	well, who doesᵍ not seek freedom?ᵍ Goodᵍ
+ʰ	self-evident that noʰ numberedʰ of men.ʰ	
+ⁱ	burdenⁱ of proof clearly shouldⁱ rest on.ⁱ
+ʲ	againstʲ any formʲ of governmentalʲ history.ʲ
+ᵏ	noneᵏ the less enslavedᵏ because he allowed.ᵏ
+ˡ	andˡ always is to be,ˡ absolute and irresponsibleˡ
+ᵐ	worse positionᵐ to which it has ledᵐ humanity.ᵐ
+ⁿ	noneⁿ more qualifiedⁿ than you are to decide.ⁿ
+ᵒ	all-powerfulᵒ Tooth Fairy makeᵒ sure justice.ᵒ
+ᵖ	that weᵖ cannot be entrustedᵖ to management.ᵖ
+/q.sups	power concedes/q.sups nothing,/q.sups without a demand/q.sups
+ʳ	appointedʳ agents also belong toʳ humanity.ʳ
+ˢ	yourˢ face to the sunshine andˢ you can see.ˢ
+ᵗ	it is important toᵗ stay positive ledᵗ and hungry.ᵗ
+ᵘ	i surroundᵘ myself withᵘ good people too.ᵘ
+ᵛ	comeᵛ in with a positive attitude, to get better.ᵛ
+ʷ	strong headʷ self-imageʷ is the best possible.ʷ
+ˣ	get a haircut andˣ feel positiveˣ ready to go.ˣ
+ʸ	inspiration allʸ comes fromʸ within yourself.ʸ
+ᶻ	Celebrateᶻ yourself... andᶻ stay positive!ᶻ
+
+###	Currency Symbols
+$	Lincoln $5 BILL helped CA$H Money $25.00
+¢	Subscribe 25¢ antique labels 1¢ gumstick
+£	Passing £1.50 attribute £2.39 LITRE PETROL
+¥	For nearest ¥9,000 absence ¥50 nearest
+€	€10 Europeans 50 € covering 25€ even € 42 cost
+฿	฿20 Thai ฿50 Baht ฿100 = 0.03142 usd ฿itcoins
+₣	₣500 French Polynesia ₣1000 New Caledonia
+₤	Italian ₤50,000 lira ₤100 pre-euro ₤20 coins
+₦	₦200 Nigerian naira ₦5 legal tender ₦10	
+₩	₩50,000 South Korean ₩50 won ₩1,000
+₪	Israeli ₪20 new ₪100 shekel ₪50 even ₪200
+₭	₭5 Lao kip ₭500 denominations ₭1,000 notes
+₮	Mongolian ₮ 8461 Tugrik ₮100 tögrög
+₱	₱50 Philippine ₱20 peso ₱500 sign denotes
+₴	₴2 Ukrainian ₴10 hryvnia symbold ₴500
+₹	Indian ₹20 rupee ₹100 banknote ₹500 Kumar
+₺	Turkish ₺5 and ₺10 lira ₺20, ₺50, ₺100, ₺200
+₫	2,000₫ Vietnamese đồng 500,000₫ coin 500₫
+₽	Russian 100₽ ruble 50₽ kopeks 5,000₽ space
+₥	280,000₥ Mill property taxes 2.8₥ coins
+ƒ	ƒ500 Aruban & Antillean ƒ25 florins ƒ100
+₡	Colón ₡ 28 Costa Rican & Salvadoran ₡500
+₲	Paraguayan 100 ₲ guaraní 1963₲ céntimos
+₵	GH₵2 Ghanaian ₵2.80 cedi ₵50 note
+₸	Tenge 2,006₸ Kazakhstani 150.4₸ Liters
+µ	Microscopic 125µ Increments of 1µ FINE
+¤	unspecified currency ¤ never seen it used
+
+###	Technical Symbols
+\	how often do you use an \escape char?
+^	required ASCII FOR exponent 10^5 & code
+·	numeric · Ungel·ling HOUSE anthropology · skating
+
+###	Math Symbols
+~	APPROXIMATELY OR ROUGHLY ~800 TILDES
++	retrieved 2+3 exhibits official +25 mph
+−	introducing FOUR −20°F COOKIE batches 4−3=1
+×	keyboards 2×4 sage knives ×1000 RPM
+÷	spelling arctic exams 20÷5 rewards
+=	speed = power and 60 mph = 120 km/h
+≠	this is not equal ≠ so 3+5≠4+5
+≈	approximately equal so 3.1×2≈6
+±	squirting ±50 webster margin of ±2.5
+<	reflected Small < Large unified 16<75
+>	integrate Beer > Wine sends 271>0 right
+≤	if n ≤ 100 do something 50
+≥	logic dictactes an if this ≥ something
+∞	there are ∞ decisions to make .333*3 = 1-∞
+¬	The negation ¬P is not logic This¬is ¬(¬A)=A
+	
+###	Uppercase Latin-1 Accents
+À	ÀMHA JÀ DE LÀ À-PROPOS DÉJÀ HOLÀ
+Á	ÁRBOL ÁGUILA MATEMÁTICAS NADARÁ
+Â	ÂM ACÇÃO THANH PÂQUES NAÎTRE WÂNÁ
+Ã	AÇÃO CÃIBRA ARGÜIÇÃO CAZÃ XAMÃ
+Ä	ÄFFISCH MÄRCHEN MÄÄKIÄ GÜNSCHÄ
+Å	ÅRELATE VÆDDEMÅL SMÅÅNDSVAG STÅ
+Æ	ÆÐISLEGUR FRAMKVÆMD ASKETRÆ
+Ç	ÇEVIRI GARÇON AÇÇELERANDO PABUÇ
+Ð	INNILOKAÐUR HANNYRÐIR ÞANGAÐ
+È	ÈBRE ÉTHYLÈNE GRÈVE SIXIÈME PALMARÈS
+É	ÉAMÚ ÉTÉ RÉAM FÉERIQUE ELÉÉR NZÍKÉ
+Ê	ÊTRE BÊRE INLÊ KOKWÊLA AFLÊ NDÊ GESÊ
+Ë	ASIË DRIEËRLEI NOËL ANATOLIË TSJEGGIË
+Ì	LUNEDÌ APRÌ BALÌ COSÌ PIPÌ SÌ
+Í	ÍNSÉG HÍRES LÍVSTÍÐ VÍÐSJÁ RÍ BATTARÍ
+Î	ÎNCEPSTÓR ÎNÁ PÂRÎ NAÎTRE DÎ DOBORÎ
+Ï	ATHEÏST CAFEÏNE AÏKIDO MAÏS MAOÏST HAWAÏ
+Ł	ŁYKO MUŁŁA BĘCWAŁ JAŁOWCÓWKA
+Ñ	ÑOÑO ÑANDÚ ÑIMIÑO COÑAC CAMPAÑA
+Ò	ÒBVI LAHÒRE AUTBÒI TELEFÒN AQUÒ
+Ó	ÓRA FONÓLOGO FORRASZTÓÓN ADÓ
+Ô	ÔNÁ CARAÔKÊ FENÔMENO SKÔ CAPÔ
+Õ	ÕGARD ÕÕNES KÕÕM ÕPPUS MONÇÕES
+Ö	ÖPÜSMEK HÖLMÖT MÖWE TÖÖLÖ KYLMIÖ
+Ø	ØNSKE TILBØYELIG SJØØRRET DROSJEKØ
+Œ	ŒUVRE MANŒUVRE SŒURETTE NŒUD
+Š	ŠEL VŠICHNI SLYŠEL PŠŠT VYŠŠIE CHCEŠ
+ẞ	MEẞERGEBNIS MIẞSTAND GROẞELTERN MAẞ
+Ù	NEVENOÙ SKIRIOÙ D’OÙ TREVELOÙ RUNIOÙ
+Ú	ÚLTIMO ÑANDÚ HATTYÚÚR CHAMPÚ
+Û	JEÛNE SÜKÛNET CYTÛN TÛSÉ BRÛE TÛ BÛM
+Ü	ÜBER PARAGÜEÑO VÖTÜRÜ MENÜ
+Ý	ÝMISLEGT HLÝDDI SAMBÝLI ÞRUMUSKÝ
+Ÿ	ARTAŸCTES L’HAŸ-LES-ROSES
+Ž	ŽIVOTEM ŽIVOT KAŽDOU SNAŽILI TOTÉŽ
+Þ	ÞEMBA SAMÞYKKJASMARK SMIÞÞE VERUORÞ
+
+###	Lowercase Latin-1 Accents
+à	àmha jà de là à-propos déjà holà
+á	árbol águila matemáticas nadará
+â	âm acção thanh pâques naître wâná
+ã	ação cãibra argüição cazã xamã
+ä	äffisch märchen määkiä günschä
+å	årelate væddemål smååndsvag stå
+æ	æðislegur framkvæmd asketræ
+ç	çeviri garçon aççelerando pabuç
+ð	innilokaður hannyrðir þangað
+è	èbre éthylène grève sixième palmarès
+é	éamú été réam féerique eléér nzíké
+ê	être bêre inlê kokwêla aflê ndê gesê
+ë	asië drieërlei noël anatolië tsjeggië
+ì	lunedì aprì balì così pipì sì
+í	ínség híres lívstíð víðsjá rí battarí
+î	începstór îná pârî naître dî doborî
+ï	atheïst cafeïne aïkido maïs maoïst hawaï
+ł	łyko mułła bęcwał jałowcówka
+ñ	ñoño ñandú ñimiño coñac campaña
+ò	òbvi Lahòre Autbòi Telefòn Aquò
+ó	óra Fonólogo Forrasztóón Adó
+ô	ôná Caraôkê Fenômeno Skô Capô
+õ	õgard õõnes Kõõm õppus Monções
+ö	öpüsmek Hölmöt Möwe Töölö Kylmiö
+ø	ønske tilbøyelig sjøørret drosjekø
+œ	œuvre manœuvre sœurette nœud
+š	šel všichni slyšel pššt vyššie chceš
+ß	meßergebnis mißstand großeltern maß
+ù	nevenoù skirioù d’où treveloù runioù
+ú	último ñandú hattyúúr champú
+û	jeûne sükûnet cytûn tûsé brûe tû bûm
+ü	über paragüeño vötürü menü
+ý	ýmislegt hlýddi sambýli þrumuský
+ÿ	artaÿctes L’Haÿ-les-Roses
+ž	životem život každou snažili totéž
+þ	þemba samþykkjasmark smiþþe veruorþ
+ª	Footnoteª José M.ª Sr.ª Senhora
+º	Nº Iº die Julii 2º secondo XXº vicensimo
+
+###	Uppercase Latin Extended-A Accents
+Ā	ĀRDOR ĀTUM ABLĀTUM ALTERĀ TENERĀ
+Ă	ĂMICTUS ĂVUS FLĀVESCO ILLĂ INFERĂ
+Ą	ŁĄCZY KSIĄDZ OSIĄGNĄĆ MAJĄC NASTĄPI BIORĄ
+Ć	DZIEĆMI GARŚĆ POSZUKAĆ ARESZTOWAĆ DODAĆ
+Ĉ	ĈUKĈA ĈI AKRONIĈO KAPUĈOĈAPELO EĈ
+Ċ	ĊAW ĊERTI ĊELLULA ĊENTEŻMU ĊELLULA
+Č	ČEM ČUOVVUT SLEČNO VEČER LIVČČII PROČ
+Ď	ĎALEJ ĎÁBEL TEĎKA BUĎME POJĎTE TEĎ
+Đ	ĐI ĐÁNH ĐOẠN ĐƯỜNG ŃÚĐ AĐ
+Ē	ĒMITTO ĒTUM DISCĒDO OPĒS EPITOMĒ
+Ĕ	ĔDAX VĔHO QUĔO NĔQUĔ MĂRĔ MALĔ
+Ė	SĖJO ETIKETĖ JONINĖS KARVĖ ABEJONĖ
+Ę	BĘDĘ KRĘCI DOSTĘPU WZIĘŁA DECYZJĘ
+Ě	ĚS ĚĹÍ NĚKDO UDĚLAL DVĚSTĚ STEJNĚ
+Ĝ	ĜUADO SINĜENA ORANĜA LOĜ
+Ğ	BAĞLANA OLUNDUĞU SIĞINACAQ UYĞUN
+Ġ	ĠDIDA ĠIMGĦA ĠUST ĠENERALI ĠNIEN
+Ģ	ĢEOMETRIJA SPIEĢELIS PAREĢIS AĢENTŪRA
+Ĥ	ĤINUJO ĈEĤA TEĤNOKRATA AKROSTIĤO AĤ
+Ħ	ĦABAQ ĦABSI ĦUTTAFA BAĦAR RUUĦ
+Ĩ	DĨA NGHĨA NHĨ NĨA ĐĨ
+Ī	ĪTUM ĪGNĪ LĪBER PRĪMUS BARBITĪ EQUĪ
+Ĭ	ĬTEM ĬNĬMĪCUS CORRĬGO EXSLĬĬUM DELĬCIO QUĂSĬ
+Į	ĮPRASTA ĮBRUKTI NEPAGRĮSTAS KURĮ TRUPUTĮ
+I	IRKI ISLAK AZADLIQ YUKARIDA HAKLARI
+Ĳ	ĲSHOCKEY BĲL NĲMAN BURGERLĲK GALERĲ
+ÍJ	MÍJN FÍJN
+Ĵ	ĴABOTO ĴETAĴO ĴURASANO ĴUS ĴETKUBUJO
+Ķ	ĶELTIETE FIZIĶE KAĶĒNS SMĒĶĒT ŠĶĪVJI
+Ĺ	ĹÄČÍ ŃĹĂŔ ĚĹÍ ÁŔŇĹ ÍĹ ÁĹŘĹ ŮĹ
+Ļ	ĻAUNA KĻŪST TĀDĒĻ ĻAUDIS BĒGĻI
+Ľ	KOĽKO ODKIAĽ RIADITEĽ
+Ŀ	EXCEĿLENT IĿLOSTRADA IĿLEGAL
+Ł	ŁYKO MUŁŁA BĘCWAŁ JAŁOWCÓWKA
+Ń	ŃÚĐ ČŃĘŔĚ SEŃOR ŃĹĂŔ PAŃSKA TYDZIEŃ
+Ņ	ŅIPRI GUŅĢIS JUAŅS NOŅEMT TURKMĒŅU
+Ň	ŇÓĘ CHRAŇTE TUČŇÁK PŘÍZEŇ NAPLŇ
+Ŋ	ŊG ŊAA JAŊDE EŊO MAŊŊIL TIŊGGAT
+Ō	ŌHNO EXPLŌDŌ ABNUŌ
+Ŏ	ŎPORTET PERMŎVEO CITŎ
+Ő	ŐKET FŐ ŐŐŐ MIELŐTT ELSŐ
+Œ	ŒIL ŒILLADE HORS-D'ŒUVRE AMŒBE FŒTUS
+Ŕ	ŇŔÇČ ČŃĘŔĚ ÁŔŇĹ MŔR ĘŔĘ ŇŔĘŔ ŃĹĂŔ
+Ŗ	KAŖŠ MĒŖA BĒŖU PULVEŖKAFIJA
+Ř	ŘÍKAL ŘÍKÁ DOPŘEDU DOBŘE GŘRE DOVNITŘ RYTÍŘ
+Ś	ŚWIATU WŚRÓD CZĘŚCI PUŚCIĆ OPUŚĆ ABYŚ
+Ŝ	ŜTATANO ŜUŜI MAŜINO BAKŜIŜO FIŜHOKI
+Ş	ŞƏXSIN KIŞILƏR PEŞƏ TƏŞKILATIN GENIŞ
+Š	ŠARM OŠTRICA BIVŠI RIJEŠITI HOĆEŠ
+Ţ	ŢAP FAŢADĂ PRONUNŢARE FETIŢĂ ANUNŢ
+Ť	ŤUK PUSŤTE TLUSŤOCH ZAPLAŤ PUSŤ OBRAŤ
+Ŧ	RUOŦAGIELLA GEÄŦKKIE MUOŦŦALII
+Ũ	ŨRĨ GĨKŨYŨ MBŨTŨ NGŨŨRI PIŨ
+Ū	ŪLLUS ŪTRUMQUE FRŪCTUS LŪX OBSCŪRO GENŪ
+Ŭ	ŬTER ŬBĪ FRŪGĪ PŬTO TĔNŬI FŬROR MŬLIER
+Ů	ŮĹ ZPŮSOB PŮJDEME SVŮJ DOMŮ DOLARŮ
+Ű	ŰRBEN MŰVELSZ KITŰNŐ HŰŰ GYŰRŰ NEVŰ
+Ų	AZIJIEČIŲ DARŽOVIŲ RANKŲ LATVIŲ
+Ŵ	ŴPS ŴYR GRŴP HINDŴAETH HALIBALŴ
+Ŷ	CAERLŶR HŶN ŶD
+Ź	ŹLE IDŹCIE JEDŹMY OBUDŹ PRZYJDŹ CHODŹ
+Ż	ŻYCIA NIŻEJ RÓŻNE KAŻDEGO MĘŻCZYZN ALEŻ
+Ž	ŽARGON ŽELI DOŽIVOTNI DRŽALO BARAŽ
+
+###	Lowercase Latin Extended-A Accents
+ā	ārdor ātum ablātum alterā tenerā
+ă	ămictus ăvus flāvesco illă inferă
+ą	łączy ksiądz osiągnąć mając nastąpi biorą
+ć	dziećmi garść poszukać aresztować dodać
+ĉ	ĉukĉa ĉi akroniĉo kapuĉoĉapelo eĉ
+ċ	ċaw ċerti ċellula ċenteżmu ċellula
+č	čem čuovvut slečno večer livččii proč
+ď	ďalej ďábel teďka buďme pojďte teď
+đ	đi đánh đoạn đường ńúđ ađ
+ē	ēmitto ētum discēdo opēs epitomē
+ĕ	ĕdax vĕho quĕo nĕquĕ mărĕ malĕ
+ė	sėjo etiketė Joninės karvė abejonė
+ę	będę kręci dostępu wzięła decyzję
+ě	ěs ěĺí někdo udělal dvěstě stejně
+ĝ	ĝuado sinĝena oranĝa loĝ
+ğ	bağlana olunduğu sığınacaq uyğun
+ġ	ġdida ġimgħa ġust ġenerali ġnien
+ģ	ģeometrija spieģelis pareģis aģentūra
+ĥ	ĥinujo ĉeĥa teĥnokrata akrostiĥo aĥ
+ħ	ħabaq ħabsi ħuttafa baħar ruuħ
+ĩ	dĩa nghĩa nhĩ nĩa đĩ
+ī	ītum īgnī līber prīmus barbitī equī
+ĭ	ĭtem ĭnĭmīcus corrĭgo exslĭĭum delĭcio quăsĭ
+į	įprasta įbrukti nepagrįstas kurį truputį
+ı	ırkı ıslak azadlıq yukarıda hakları
+ĳ	ĳshockey bĳl nĳman burgerlĳk galerĳ
+íj	míjn fíjn
+ĵ	ĵaboto ĵetaĵo ĵurasano ĵus ĵetkubujo
+ķ	ķeltiete fiziķe kaķēns smēķēt šķīvji
+ĸ	ĸulainalik ĸulangerpa ĸulailauuput
+ĺ	ĺäčí ńĺăŕ ěĺí áŕňĺ íĺ áĺřĺ ůĺ
+ļ	ļauna kļūst Tādēļ ļaudis bēgļi
+ľ	Koľko odkiaľ riaditeľ
+ŀ	exceŀlent iŀlostrada iŀlegal
+ł	łyko mułła bęcwał jałowcówka
+ń	ńúđ čńęŕě seńor ńĺăŕ pańska tydzień
+ņ	ņipri guņģis juaņs noņemt turkmēņu
+ň	ňóę chraňte tučňák přízeň naplň
+ŉ	does the ŉ appear with other letters?
+ŋ	ŋg ŋaa jaŋde eŋo maŋŋil tiŋggat
+ō	ōhno Explōdō Abnuō
+ŏ	ŏportet Permŏveo Citŏ
+ő	őket fő őőő Mielőtt Első
+œ	œil œillade hors-d'œuvre amœbe fœtus
+ŕ	ňŕçč čńęŕě áŕňĺ mŕr ęŕę ňŕęŕ ńĺăŕ
+ŗ	kaŗš mēŗa bēŗu pulveŗkafija
+ř	říkal říká dopředu dobře gřre dovnitř rytíř
+ś	światu wśród części puścić opuść abyś
+ŝ	ŝtatano ŝuŝi maŝino bakŝiŝo fiŝhoki
+ş	şəxsin kişilər peşə təşkilatın geniş
+š	šarm oštrica bivši riješiti hoćeš
+ţ	ţap faţadă pronunţare fetiţă anunţ
+ť	ťuk pusťte tlusťoch zaplať pusť obrať
+ŧ	ruoŧagiella geäŧkkie muoŧŧalii
+ũ	ũrĩ gĩkũyũ mbũtũ ngũũri piũ
+ū	ūllus ūtrumque frūctus lūx obscūro genū
+ŭ	ŭter ŭbī frūgī pŭto tĕnŭi fŭror mŭlier
+ů	ůĺ způsob půjdeme svůj domů dolarů
+ű	űrben művelsz kitűnő hűű gyűrű nevű
+ų	azijiečių daržovių rankų latvių
+ŵ	ŵps ŵyr grŵp hindŵaeth halibalŵ
+ŷ	caerlŷr hŷn ŷd
+ź	źle idźcie jedźmy obudź przyjdź chodź
+ż	życia niżej różne każdego mężczyzn ależ
+ž	žargon želi doživotni držalo baraž
+
+###	Localized Polish Accents
+/Ckreska	DZIEĆMI GARŚĆ POSZUKAĆ ARESZTOWAĆ DODAĆ
+/Nkreska	PAŃSKIE MAŁŻEŃSTWA SKOŃCZY BADAŃ ZOSTAŃ
+/Okreska	AGENTÓW BÓG RÓBCIE CÓRKĄ MÓGŁBY IEKTÓRE
+/Skreska	ŚWIAT GOŚCI ZCZĘŚCIA TAŚMĘ ODLEGŁOŚĆ ABYŚ
+/Zkreska	PÓŹNO CHODŹMY MĘŻCZYŹNI ZNAJDŹ WŁAŹ
+/ckreska	dziećmi garść poszukać aresztować dodać
+/nkreska	pańskie małżeństwa skończy badań zostań
+/okreska	agentów bóg róbcie córką mógłby iektóre
+/skreska	świat gości zczęścia taśmę odległość abyś
+/zkreska	późno chodźmy mężczyźni znajdź właź
+
+###	Dutch j-acute
+/jacute	verblíjven blíjf
+
+###	Uppercase Latin Extended-B Accents
+Ǎ	ǍIXIǍO BIǍOSHÌ LǍO YǍNJĪNG LǍOSHĪ XUǍN BǍ
+Ǻ	HǺND
+Ǽ	LǼS ǼFÆST ÁGLǼC DǼMA NǼG PLASTICǼ SǼ
+Ǧ	ǦARASEN ǦADĪD FUǦNUTEN EǦǦIN AJEǦǦID
+Ǫ	ǪLLD ǪRVANGA
+Ǿ	NORǾRNT DǾMA STǾLL TǾ
+Ș	ȘOCA ȘUȘUI ȘARJĂ FIȘIER BOTROȘ CUȘCUȘ
+Ț	ȚICNIT REȚETĂ RELAȚII FRĂȚIE IRKUȚK CITEȚ
+Ȳ	GŌRȲTOS SȲCAMINUS
+Ə	ƏRƏFƏ ƏZIZ CƏLB ƏLLI GIRMƏK MÜƏLLIF DƏFƏ
+
+###	Lowercase Latin Extended-B Accents
+ǎ	ǎixiǎo biǎoshì lǎo yǎnjīng lǎoshī xuǎn bǎ
+ǻ	hǻnd
+ǽ	Lǽs ǽfæst áglǽc dǽma nǽg plasticǽ sǽ
+ǧ	ǧarasen ǧadīd fuǧnuten eǧǧin ajeǧǧid
+ǫ	ǫlld ǫrvanga
+ǿ	Norǿrnt dǿma stǿll tǿ
+ș	șoca șușui șarjă fișier botroș cușcuș
+ț	țicnit rețetă relații frăție irkuțk citeț
+ȳ	gōrȳtos sȳcaminus
+ə	ərəfə əziz cəlb əlli girmək müəllif dəfə
+
+###	Uppercase Latin Vietnamese Accents
+Ạ	ĐẠO MẠC PHẠM MẠNH TẠP HOẠCH LẠI NGOẠI
+Ả	ẢNH KHOẢNG GIẢI QUẢNG CẢNH ĐẢO PHẢI QUẢ
+Ấ	ẤN NHẤT HẤP ĐẤU THẤM GIẤY XUẤT THẤT ĐẤU
+Ầ	TRẦN GẦN HẦU ĐẦU LẦN TUẦN CẦN THẦY
+Ẩ	ẨM ĐẨY CHUẨN CẨN KHẨU PHẨM
+Ẫ	DẪN PHẪU NGẪU MẪU VẪN QUẪN BẪY
+Ậ	LUẬT BẬT ĐẬM TRẬN THUẬN GIẬP NHẬP
+Ắ	GẮN BẮC NẮNG ĐẮNG KHẮP SẮP TẮC
+Ằ	NHẰM BẰNG RẰNG NẰM HẰNG
+Ẳ	CHẲNG KHẲNG THẲNG DẲNG HẲN
+Ẵ	NẴNG SẴN GẴNG NHẴN
+Ặ	ĐẶT NẶNG MẶT ĐẶC GẶT CHẶT NGOẶT TẶNG
+Ẹ	ĐẸP NGHỆT HẸN KẸT BẸP KẸO NGHẸN MẸ
+Ẻ	HẺM RẺ NHA-KẺ LẺ KHOẺ SẺ VẺ TRẺ
+Ẽ	SẼ CHẼ MẼ NGHẼN NAMSẼ LẼO NHẼ
+Ế	BIẾN CHIẾN TẾ-XÃ THUYẾT CHẾ TIẾP KẾT TẾ
+Ề	ĐỀN TRUYỀN CHIỀU QUYỀN LỀU TRUYỀN ĐỀU
+Ể	CHUYỂN BIỂU ĐIỂM TUYỂN HIỂU THIỂU
+Ễ	DỄ NHIỄM TIỄN RỄ NHIỄM NGUYỄN MIỄN
+Ệ	NGHIỆP KIỆN BỆNH LIỆU NGHỆ THIỆU HỆ
+Ỉ	CHỈNH XỈ TỈNH NGHỈ CHỈ TỈNH ĐỈNH TỈ
+Ị	LỊCH ĐỊCH THỊT DỊCH NHỊP NGHỊ NHỊ TRỊ
+Ọ	HỌC ĐỌC GIỌT TRỌNG BỌC NGỌC, GỌI NGỌT
+Ỏ	KHỎI TỎ KHỎE NGỎ ĐỎ BỎNG LỎI VỎ
+Ố	SỐNG ĐỐN ĐỐC TRỐNG KHỐC UỐNG ỐNG
+Ồ	ĐỒNG GỒM NGUỒN RỒI ĐỒI TỒN LỒI CUỒNG
+Ổ	ĐỔI TỔNG KHỔ NỔ CỔNG BUỔI KHỔ ĐUỔI
+Ỗ	MỖI CHỖ RỖI CHUỖI MUỖI BỖNG NỖI TRỖI
+Ộ	ĐỘNG MỘT NỘI BỘ ĐỘC MỘNG CỘT NGỘT
+Ơ	HƯƠU NGƯƠI RAĐƠN RƯƠNG XƠ-UN THƠ
+Ớ	ỚT ƯỚP NƯỚC NƯỚC GIỚI HÀNỘIMỚI TRƯỚC LƯỚT
+Ờ	NGƯỜI ĐỜI GIỜ PHƯỜNG TRƯỜNG NGƯỜI MỜ
+Ở	TƯỞNG NHỞ XƯỞNG SỞ CHỞ HƯỞNG LỞM RƯỞI
+Ỡ	DỠ NGỠ DƯỠNG NGƯỠNG GỠ LƯỠNG LƯỠI RỠ
+Ợ	ĐƯỢC TƯỢNG ĐỢI VỢ RƯỢU NGƯỢC CHỢT TRỢN
+Ụ	DỤC DỤNG PHỤC NGỤT MỤC PHỤC TRỤ
+Ủ	CỦA ĐỦ CHỦTÀI TỦ CHỦĐỘNG CHỦHƠN PHỦ
+Ư	ƯỚC LƯƠNG GIƯỜNG HƯỚNG ĐƯỜNG THƯ
+Ứ	ỨNG THỨC SỨ DỨT! CHỨA THỨC NỨT CHỨ
+Ừ	TỪ NGỪNG DỪA BỪNG CHỪNG LỪNG NGỪA TRỪ
+Ử	SỬ SỬA THỬA NỬA SỬNG CỬA TỬNG THỬ
+Ữ	NỮ VỮNG TRỮ CHỮA NHỮNG NỮA GIỮA NGỮ
+Ự	LỰC ĐỰNG VỰA CỰC TRỰC VỰC CỰU NGỰC NHỰA
+Ỳ	KỲ QUỲNH LỲ HUỲNH THUỲ
+Ỵ	TỴ QUỴ QUỴT LỴ KỴ THUỴ
+Ỷ	KHUỶU TỶ HUỶ THUỶ KỶ UỶ
+Ỹ	KỸ QUỸ MỸ QUỸ SỸ MỸ
+
+/Obreveacute	G/Obreveacute N B/Obreveacute C N/Obreveacute NG Đ/Obreveacute NG KH/Obreveacute P S/Obreveacute P T/Obreveacute C
+/Obrevegrave	NH/Obrevegrave M B/Obrevegrave NG R/Obrevegrave NG N/Obrevegrave M H/Obrevegrave NG
+/Obrevehoi	CH/Obrevehoi NG KH/Obrevehoi NG TH/Obrevehoi NG D/Obrevehoi NG H/Obrevehoi N
+/Obrevetilde	N/Obrevetilde NG S/Obrevetilde N G/Obrevetilde NG NH/Obrevetilde N
+
+###	Uppercase Latin Additional Accents
+Ḍ	ḌĀKINI ḌAMBARA ḌAYĀNĀKṢETRA ḌUMḌUBHA
+Ḏ	ḎĀL ḎIMMĪ AḎḎANA ḎAYNA JURAḎ
+Ḥ	ḤACQAŁ ḤUTZPAH MISHPOḤEH L’ḤAYIM ḤUTIK
+Ṛ	ṚTKOS VṚKṢĀSANA MṚGHÚ WṚDHOM
+Ṣ	ṢAA PAṢIPAARỌ ALAIMUṢINṢIN BOṢEWA
+Ṭ	ṬAKVA ṬHAKKA ṬILLĀ AIṢṬIKA PṚṢṬHÁ ṢṬÍVATI
+Ẓ	ẒĀʼ YAẒ
+Ṅ	ṄA ṄAKĀRA
+Ḻ	AḺA MAḺU
+Ṉ	KAAṈKA TAAṈPA PUUṈI PAWUṈI WAYAṈU IṈI
+Ṯ	PIṮI WAṮA TJIṈṮU
+Ẁ	YẀH BENẀISG ẀAN ẀATT ẀALLET ẀANT ẀASP
+Ẃ	GẂAG ẂYR ANSAẂDD
+Ẅ	PENTÉẄYN ERGJẄ YSTWẄRL ẄMPTER ẄYRM
+Ɲ	ƝEBILA ƝUGUN ƝANGINI
+Ə	ƏMƏL ƏTRAFLI ƏVVƏLINƏ SƏHIFƏLƏRI VƏ
+
+###	Lowercase Latin Vietnamese Accents
+ạ	đạo mạc Phạm mạnh tạp hoạch lại ngoại
+ả	ảnh khoảng Giải quảng cảnh đảo Phải quả
+ấ	ấn nhất hấp đấu thấm giấy xuất thất đấu
+ầ	trần gần Hầu đầu lần tuần Cần thầy
+ẩ	ẩm đẩy chuẩn cẩn khẩu phẩm
+ẫ	dẫn phẫu ngẫu mẫu vẫn quẫn bẫy
+ậ	luật bật đậm trận thuận giập nhập
+ắ	gắn Bắc nắng đắng khắp sắp tắc
+ằ	nhằm bằng rằng nằm hằng
+ẳ	chẳng khẳng thẳng dẳng hẳn
+ẵ	nẵng sẵn gẵng nhẵn
+ặ	đặt nặng mặt đặc gặt chặt ngoặt tặng
+ẹ	đẹp nghệt hẹn kẹt bẹp kẹo nghẹn mẹ
+ẻ	hẻm rẻ Nha-Kẻ lẻ khoẻ sẻ vẻ trẻ
+ẽ	sẽ chẽ mẽ nghẽn Namsẽ lẽo nhẽ
+ế	biến chiến tế-xã thuyết chế tiếp kết tế
+ề	đền truyền chiều quyền lều truyền đều
+ể	chuyển biểu điểm tuyển hiểu thiểu
+ễ	dễ nhiễm tiễn rễ nhiễm Nguyễn miễn
+ệ	nghiệp kiện bệnh liệu nghệ thiệu hệ
+ỉ	chỉnh xỉ tỉnh nghỉ chỉ tỉnh đỉnh tỉ
+ị	lịch địch thịt dịch nhịp nghị nhị trị
+ọ	học đọc giọt Trọng bọc Ngọc, gọi ngọt
+ỏ	khỏi tỏ khỏe ngỏ đỏ bỏng lỏi vỏ
+ố	sống đốn đốc trống khốc uống ống
+ồ	đồng gồm nguồn rồi đồi tồn lồi cuồng
+ổ	đổi tổng khổ nổ cổng buổi khổ đuổi
+ỗ	mỗi chỗ rỗi chuỗi muỗi bỗng nỗi trỗi
+ộ	động một nội bộ độc mộng cột ngột
+ơ	hươu ngươi rađơn rương xơ-un thơ
+ớ	ớt ướp nước nước giới Hànộimới trước lướt
+ờ	người đời giờ phường trường người mờ
+ở	tưởng nhở xưởng sở chở hưởng lởm rưởi
+ỡ	dỡ ngỡ dưỡng ngưỡng gỡ lưỡng lưỡi rỡ
+ợ	được tượng đợi vợ rượu ngược chợt trợn
+ụ	dục dụng phục ngụt mục phục trụ
+ủ	của đủ chủTài tủ chủĐộng chủHơn phủ
+ư	ước lương giường hướng đường thư
+ứ	ứng thức sứ dứt! chứa thức nứt chứ
+ừ	từ ngừng dừa bừng chừng lừng ngừa trừ
+ử	sử sửa thửa nửa sửng cửa tửng thử
+ữ	nữ vững trữ chữa những nữa giữa ngữ
+ự	lực đựng vựa cực trực vực Cựu ngực nhựa
+ỳ	kỳ quỳnh lỳ huỳnh thuỳ
+ỵ	tỵ quỵ quỵt lỵ kỵ thuỵ
+ỷ	khuỷu tỷ huỷ thuỷ kỷ uỷ
+ỹ	kỹ quỹ mỹ quỹ sỹ mỹ
+
+/obreveacute	g/obreveacute n B/obreveacute c n/obreveacute ng đ/obreveacute ng kh/obreveacute p s/obreveacute p t/obreveacute c
+/obrevegrave	nh/obrevegrave m b/obrevegrave ng r/obrevegrave ng n/obrevegrave m h/obrevegrave ng
+/obrevehoi	ch/obrevehoi ng kh/obrevehoi ng th/obrevehoi ng d/obrevehoi ng h/obrevehoi n
+/obrevetilde	n/obrevetilde ng s/obrevetilde n g/obrevetilde ng nh/obrevetilde n
+
+
+###	Lowercase Latin Additional Accents
+ḍ	ḍākini ḍambara ḍayānākṣetra ḍumḍubha
+ḏ	ḏāl ḏimmī aḏḏana ḏayna juraḏ
+ḥ	ḥacqał ḥutzpah mishpoḥeh L’ḥayim ḥutik
+ṛ	ṛtkos vṛkṣāsana mṛghú wṛdhom
+ṣ	ṣaa paṣipaarọ alaimuṣinṣin boṣewa
+ṭ	ṭakva ṭhakka ṭillā aiṣṭika pṛṣṭhá ṣṭiv ṣṭívati
+ẓ	ẓāʼ yaẓ
+ṅ	ṅa ṅakāra
+ḻ	aḻa maḻu
+ṉ	kaaṉka taaṉpa puuṉi pawuṉi wayaṉu iṉi
+ṯ	piṯi waṯa tjiṉṯu
+ẁ	yẁh benẁisg ẁan ẁatt ẁallet ẁant ẁasp
+ẃ	gẃag ẃyr ansaẃdd
+ẅ	pentéẅyn ergjẅ ystwẅrl ẅmpter ẅyrm
+ɲ	ɲebila ɲugun ɲangini
+ə	əməl ətraflı əvvəlinə səhifələri və
+ȷ	pretty sure this isn't used by any languaȷe
+
+###	Icons
+☛	☛ Here that's right ☛ Look there ☛
+☚	☚ There yea ☚ look to the left ☚
+🤙	🤙 Groovy, dude 🤙 Far out! 🤙
+→	→ Rightward → caption east →
+↑	↑ North caption ↑ upward ↑
+↓	↓ Down ↓ caption southern ↓
+←	← West caption ← to the left ←
+↖	↖ Northwest ↖ over there ↖
+↗	↗ eastwest direction ↗ move ↗
+↘	↘ Downright ↘ cheat code ↘
+↙	↙ Mortal ↙ Kombat is hard ↙
+▶	▶ Right pointing pizza ▶
+▲	▲ Dunce cap for clowns up top ▲
+▼	▼ Down there is a cat nose ▼
+◀	◀ Left pointing slice of cheese ◀
+⌃	⌃ Up scroll arrow thingy ⌃
+⌄	⌄ Down arrow thingy scrolling ⌄
+♥	♥ Hearts are cool ♥ Right?
+●	● Circles are also pretty cool ●
+★	★ It's a star ★ good for filling space
+✶	✶ This star is all over ✶ chicago ✶ ✶ ✶ ✶
+✴	✴ I don't know ✴ Maybe you need a blob
+☐	☐ Didn't vote. We're all doomed.
+☑	☑ Voted! Hooray for democracy.
+
+###	Ligatures
+ﬀ	fffound offset snuff caffeine feedstuff
+	final unfit kufi
+fj	fjord ufj fjeld fjord fjordlike fjell
+	flower rifles
+fb	huffback surfboarding beefburger scruffbucket
+fh	wolfhounds boofheads
+fk	wolfkin schafkopf
+	fffound grifffest
+ﬃ	coffin afficionado griffinship
+ffj	cliffjumper riffjam
+ﬄ	scofflaw waffles affluence shiffle-shuffle
+ffb	huffback scruffbucket
+ffh	offhand cliffhanging
+ffk offkey puffkin tscheffkinite
+fffi offfield
+
+###	Subscripts
+₁	H₁ Science Ga(C₁₂H₃O₁)₁₀ Beaker Th(CO₁)₃
+₂	H₂ Cat C₁₃H₁₂F₂N₂O Tubes Zn(C₂H₁₂O₂)₂
+₃	H₃ Drug F₃NO₁₃S Bunson Na₃NbO₃ · 7H₃O
+₄	H₄ Eat FeBr₄ · 6H₄O Burner Rb₄SO₄
+₅	H₅ Word Co₅(Fe(CN)₅)₅ Math P₅Se₅ Lab
+₆	H₆ Study Hg(BrO₆)₆ · 2H₆O Experiment
+₇	H₇ Flavour K₇C₁₇H₇O₁₇ Result Sn(VO₇)₇
+₈	H₈ Mutant Li₈TeO₈ O₈F₈ Cancer RbIO₈
+₉	H₉ New (NH₉)H₉AsO₉ Research SnBr₉Cl₉
+₀	H₁₀ Chemical SO₁₀P₁₀OH− Fine Sr(NbO₂₀)₁₀
+
+###	Precomposed Fractions
+½	Use ½ cup sauce 2 ½
+↉	Pitched 5 ↉ innings 1↉
+⅓	Use ⅓ lbs sausage 10⅓
+⅔	Clean 15 ⅔ green walnuts ⅔
+¼	Heat ¼ tsp olive oil 24 ¼
+¾	Cut ¾ stalk 12 ¾
+⅕	Finance 100 ⅕ return
+⅖	Fractions 23 ⅖ are precise
+⅗	Interest 2 ⅗ percent yield
+⅘	Count 1 ⅘ points	
+⅙	Dentitst agree 2 ⅙ teeth
+⅚	Reach 1 ⅚ things	
+⅐	Making 10 ⅐ texts
+⅛	Chop ⅛ carrot
+⅜	Measure 10 ⅜ inches	
+⅝	Cut 3 ⅝" board	
+⅞	Erasing 9 ⅞" rubber
+⅑	Who needs ⅑ set?	
+⅒	Is this 10 ⅒ metric
+⅟	What's ⅟ used for anyway?	
+⁄	arbitrary fractions use this ⁄
